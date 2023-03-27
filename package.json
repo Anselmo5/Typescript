@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "scripts": {
+    "build" : "tsc",
+    "dev" : "yarn build && node"
+  }
+}
